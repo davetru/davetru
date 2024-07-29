@@ -21,7 +21,7 @@ current_role = "Software Engineer"
 education = "BS in Computer Science"
 company = "Open for opportunities"
 
-fields_of_interests: [
+fields_of_interests = [
     "Web Development",
     "Full-Stack Development",
     "DevOps",
