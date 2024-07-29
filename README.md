@@ -31,7 +31,7 @@ fields_of_interests: [
 
 currently_working_on = [
     "The Odin Project: Diving deep into both JavaScript and Ruby on Rails paths to strengthen my skills",
-    "LeetCode: To further improve my coding skills, problem-solving abilities, and knowledge of algorithms and data structures"
+    "LeetCode: To improve my coding skills, problem-solving abilities, and knowledge of algorithms and data structures"
 ]
 
 end_of_year_goals = [
