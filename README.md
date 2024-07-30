@@ -35,9 +35,9 @@ currently_working_on = [
 ]
 
 end_of_year_goals = [
-    "Become proficient in full-stack development.",
-    "Contribute to open-source projects and collaborate with other developers.",
-    "Leverage technology to solve real-world problems and improve lives."
+    "Become proficient in full-stack development",
+    "Contribute to open-source projects and collaborate with other developers",
+    "Leverage technology to solve real-world problems and improve lives"
 ]
 
 hobbies: ["Gaming", "Hiking", "Dogs", "Spartan Races"]
