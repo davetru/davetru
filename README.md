@@ -15,32 +15,32 @@
 <br clear="both">
 
 ```python
-name = "David Tru Tran"
-location = "San Jose, CA (95133)"
-current_role = "Software Engineer"
-education = "BS in Computer Science"
-company = "Open for opportunities"
+name = 'David Tru Tran'
+location = 'San Jose, CA (95133)'
+current_role = 'Software Engineer'
+education = 'BS in Computer Science'
+company = 'Open for opportunities'
 
 fields_of_interests = [
-    "Web Development",
-    "Full-Stack Development",
-    "DevOps",
-    "Machine Learning",
-    "Artificial Intelligence"
+    'Web Development',
+    'Full-Stack Development',
+    'DevOps',
+    'Machine Learning',
+    'Artificial Intelligence'
 ]
 
 currently_working_on = [
-    "The Odin Project: Diving deep into both JavaScript and Ruby on Rails paths to strengthen my skills",
-    "LeetCode: To improve my coding skills, problem-solving abilities, and knowledge of algorithms and data structures"
+    'The Odin Project: Diving deep into both JavaScript and Ruby on Rails paths to strengthen my skills',
+    'LeetCode: To improve my coding skills, problem-solving abilities, and knowledge of algorithms and data structures'
 ]
 
 end_of_year_goals = [
-    "Become proficient in full-stack development",
-    "Contribute to open-source projects and collaborate with other developers",
-    "Leverage technology to solve real-world problems and improve lives"
+    'Become proficient in full-stack development',
+    'Contribute to open-source projects and collaborate with other developers',
+    'Leverage technology to solve real-world problems and improve lives'
 ]
 
-hobbies: ["Gaming", "Hiking", "Dogs", "Spartan Races"]
+hobbies = ['Gaming', 'Hiking', 'Dogs', 'Spartan Races']
 ```
 
 <br clear="both">
